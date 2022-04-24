@@ -2,9 +2,6 @@
 <h3>Hi there 👋, I'm Ange Belard </h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=15&lines=FULL+STACK+WEB+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST" alt="a-belard"/>
 
-## 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=a-belard&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="a-belard"/>
 
 ### Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
@@ -15,6 +12,12 @@
 	<a href="https://www.facebook.com/angebelard"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
 	<a href="https://www.instagram.com/belix_2.0/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+
+## 🔥 Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=a-belard&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="a-belard"/>
+
 
 ## 🛠️ My Skills
 
@@ -106,8 +109,10 @@
 </p>
 
 
+<br/>
 
 ### 📊 Github Stats
+
 
 <p>
     	<a href="#"><img alt="a-belard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a-belard&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
