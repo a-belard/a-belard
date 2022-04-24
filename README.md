@@ -1,5 +1,5 @@
 <h2>Hi there 👋, I'm Ange Belard </h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&lines=FULL+STACK+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com?font=poppins&lines=FULL+STACK+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 <!--
