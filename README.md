@@ -1,4 +1,4 @@
-<img width="100%" src="https://www.pngitem.com/pimgs/b/4-42822_developer-png.png"/>
+<img width="50%" style="margin: auto" src="https://www.pngitem.com/pimgs/b/4-42822_developer-png.png"/>
 <h2>Hi there 👋, I'm Ange Belard </h2>
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&lines=FULL+STACK+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST"/>
 
