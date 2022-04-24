@@ -1,7 +1,6 @@
 <img width="35%" style="margin: auto" src="https://www.pngitem.com/pimgs/b/4-42822_developer-png.png" alt="a-belard"/>
 <h3>Hi there 👋, I'm Ange Belard </h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=15&lines=FULL+STACK+WEB+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST" alt="a-belard"/>
-<br/>
 
 ## 🔥 Streak Stats
 <br/>
@@ -9,7 +8,6 @@
 <br/>
 
 ### Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<br>
 <p>
 	<a href="mailto:ahmed.angebelard@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/a-belard"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -18,6 +16,7 @@
 	<a href="https://www.facebook.com/angebelard"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/belix_2.0/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+<br/>
 <!--
 **a-belard/a-belard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
