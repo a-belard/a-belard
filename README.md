@@ -9,7 +9,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=a-belard&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="a-belard"/>
 <br/>
 <br/>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <br>
 <p>
 	<a href="mailto:ahmed.angebelard@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
