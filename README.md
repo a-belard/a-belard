@@ -10,7 +10,6 @@
 
 <p>
 	<a href="mailto:angebelard@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-	<a href="https://github.com/a-belard"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 	<a href="https://wa.me/0780578131"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>&nbsp;
 	<a href="https://www.linkedin.com/in/ange-belard-r-b43552228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 	<a href="https://www.facebook.com/angebelard"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
@@ -86,6 +85,16 @@
 </p>
 
 
+#### 🏀 Design
+
+<p>
+    	<a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>&nbsp;
+	<a href="#"><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>&nbsp;
+	<a href="#"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>&nbsp;
+	<a href="#"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>&nbsp;
+</p>
+
+
 #### 🔣 Operating Systems
  
 <p>
@@ -97,17 +106,18 @@
 </p>
 
 
-<!--
-**a-belard/a-belard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Github Stats
 
-Here are some ideas to get you started:
+<summary><b>💻 GitHub Profile Stats</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    	<a href="#"><img alt="a-belard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a-belard&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-belard&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="a-belard" height="192px"/>
+  </p>
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/a-belard"><img alt="a-belard's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=a-belard&custom_title=a-belard's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
