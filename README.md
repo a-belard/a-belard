@@ -1,7 +1,7 @@
 <img width="35%" style="margin: auto" src="https://www.pngitem.com/pimgs/b/4-42822_developer-png.png"/>
 <h2>Hi there 👋, I'm Ange Belard </h2>
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=15&lines=FULL+STACK+WEB+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a-belard&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=a-belard&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/>
 <!--
 **a-belard/a-belard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
