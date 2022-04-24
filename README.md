@@ -19,7 +19,7 @@
 
 ## 🛠️ My Skills
 
-### 🧑‍💻 Programming languages
+#### 🧑‍💻 Programming languages
 
 <p>
     	<a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
@@ -36,7 +36,7 @@
 </p>
 
 
-### 🧑‍💻 Frontend frameworks and libraies
+#### 🧑‍💻 Frontend frameworks and libraies
 
 <p>
     	<a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>&nbsp;
@@ -53,7 +53,7 @@
 </p>
 
 
-### 🧑‍💻 Backend frameworks and libraies
+#### 🧑‍💻 Backend frameworks and libraies
 
 <p>
     	<a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>&nbsp;
@@ -69,7 +69,24 @@
 </p>
 
 
-### 🔣 Operating Systems
+#### 🧑‍💻 Mobile frameworks
+
+<p>
+    	<a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>&nbsp;
+</p>
+
+
+#### 🧑‍💻 ML / PL
+
+<p>
+    	<a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;
+	<a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;
+	<a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;
+	<a href="#"><img src="https://img.shields.io/badge/cvzone-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;
+</p>
+
+
+#### 🔣 Operating Systems
  
 <p>
 	<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
