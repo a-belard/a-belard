@@ -106,18 +106,16 @@
 </p>
 
 
-## 📊 Github Stats
 
-<summary><b>💻 GitHub Profile Stats</b></summary>
+### 📊 Github Stats
 
 <p>
     	<a href="#"><img alt="a-belard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a-belard&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
+	<br/><br/>
 	 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-belard&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="a-belard" height="192px"/>
   </p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/a-belard"><img alt="a-belard's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=a-belard&custom_title=a-belard's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> -->
