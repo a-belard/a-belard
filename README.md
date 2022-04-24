@@ -7,6 +7,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=a-belard&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="a-belard"/>
 
 ### Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
 <p>
 	<a href="mailto:ahmed.angebelard@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/a-belard"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -18,11 +19,11 @@
 
  ### 👉 Operating Systems
  
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Kali-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Debian-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
 </p>
