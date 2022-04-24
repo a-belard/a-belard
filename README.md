@@ -1,6 +1,6 @@
-<img width="50%" style="margin: auto" src="https://www.pngitem.com/pimgs/b/4-42822_developer-png.png"/>
+<img width="35%" style="margin: auto" src="https://www.pngitem.com/pimgs/b/4-42822_developer-png.png"/>
 <h2>Hi there 👋, I'm Ange Belard </h2>
-<img src="https://readme-typing-svg.herokuapp.com?font=poppins&lines=FULL+STACK+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=15&lines=FULL+STACK+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST"/>
 
 <!--
 **a-belard/a-belard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
