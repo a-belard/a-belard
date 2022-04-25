@@ -1,4 +1,3 @@
-<p aling="center"><img src="" width="100%"/></p>
 <h3 align="center">Hi there 👋, I'm Ange Belard </h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&size=16&lines=FULL+STACK+WEB+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST" alt="a-belard"/></p>
 <img align="right" width="350px" style="margin: auto" src="https://www.pngitem.com/pimgs/b/4-42822_developer-png.png" alt="a-belard"/>
