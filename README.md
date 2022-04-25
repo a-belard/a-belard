@@ -122,9 +122,9 @@
 
 
 <p style="display:flex; gap: 10px">
-    	<a href="#"><img alt="a-belard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a-belard&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    	<a href="#" align="left"><img alt="a-belard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a-belard&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 	<br/><br/>
-	 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-belard&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="a-belard" height="192px"/>
+	 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-belard&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="a-belard" height="192px"/>
   </p>
 
 <!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
