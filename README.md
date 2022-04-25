@@ -3,6 +3,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=15&lines=FULL+STACK+WEB+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST" alt="a-belard"/>
 
 
+- 🔭 I’m currently working on **computer vision projects**
+
+- 🌱 I’m currently learning **flutter, computer vision**
+
+- 💬 Ask me about **react, python**
+
+- 📫 How to reach me **angebelard@gmail.com**
+
+
 ### Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <p>
@@ -12,15 +21,6 @@
 	<a href="https://www.facebook.com/angebelard"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
 	<a href="https://www.instagram.com/belix_2.0/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
-
-- 🔭 I’m currently working on **computer vision projects**
-
-- 🌱 I’m currently learning **flutter, computer vision**
-
-- 💬 Ask me about **react, python**
-
-- 📫 How to reach me **angebelard@gmail.com**
 
 
 
