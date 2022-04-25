@@ -23,13 +23,6 @@
 </p>
 
 
-
-### 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=a-belard&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="a-belard"/>
-
-
-
 ### 🛠️ My Skills
 
 #### 🧑‍💻 Languages
@@ -121,6 +114,11 @@
 
 
 <br/>
+
+### 🔥 Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=a-belard&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="a-belard"/>
+
 
 ### 📊 Github Stats
 
