@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋, I'm Ange Belard </h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&size=16&lines=FULL+STACK+WEB+DEVELOPER;REACT+ON+MY+WAY;COMPUTER+VISION+ENTHUSIAST" alt="a-belard"/></p>
-<img align="right" width="350px" style="margin: auto" src="https://www.whoooa.rocks/illustrations/developer-1-solid.png" alt="a-belard"/>
+<img align="right" width="350px" style="margin: auto; transform: rotateY(-90deg)" src="https://www.whoooa.rocks/illustrations/developer-1-solid.png" alt="a-belard"/>
 
 - 🔭 I’m currently working on **computer vision projects**
 
