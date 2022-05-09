@@ -22,7 +22,7 @@
 </p>
 
 
-### 🛠️ My Skills
+<!-- ### 🛠️ My Skills
 
 #### 🧑‍💻 Languages
 
@@ -109,7 +109,7 @@
     	<a href="#"><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>&nbsp;
 	<a href="#"><img src="(https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>&nbsp;
 	<a href="#"><img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white"></a>&nbsp;	  
-</p>
+</p> -->
 
 
 <!-- ### 🔥 Streak Stats
