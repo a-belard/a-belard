@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **computer vision projects**
 
-- 🌱 I’m currently learning **flutter, machine learning**
+- 🌱 I’m currently learning **AR, Machine Learning**
 
 - 💬 Ask me about **react, python**
 
