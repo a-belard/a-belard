@@ -1,25 +1,24 @@
 <h3 align="center">Hi there 👋, I'm Ange Belard </h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&size=16&lines=FULL+STACK+WEB+DEVELOPER;REACT+ON+MY+WAY;MACHINE+LEARNING+ENTHUSIAST" alt="a-belard"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&size=16&lines=FULL+STACK+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST" alt="a-belard"/></p>
 <img align="right" width="350px" style="margin: auto;" src="https://www.whoooa.rocks/illustrations/developer-1-solid.png" alt="a-belard"/>
 
-- 🔭 I’m currently working on **computer vision projects**
+- 🔭 I’m currently researching on **computer vision projects**
 
 - 🌱 I’m currently learning **AR, Machine Learning**
 
 - 💬 Ask me about **react, python**
 
-- 📫 How to reach me **angebelard@gmail.com**
+- 📫 How to reach me **brutayis@andrew.cmu.edu**
 
 
 ### Connect with me 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> -->
 
 <p>
-	<a href="mailto:angebelard@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-	<a href="https://wa.me/0780578131"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>&nbsp;
+	<a href="mailto:brutayis@andrew.cmu.edu"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+	<a href="https://wa.me/97451471806"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>&nbsp;
 	<a href="https://www.linkedin.com/in/ange-belard-r-b43552228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-	<a href="https://www.facebook.com/angebelard"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
-	<a href="https://www.instagram.com/belix_2.0/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/belix_3.0/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 
