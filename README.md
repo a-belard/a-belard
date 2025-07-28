@@ -1,12 +1,9 @@
 <h3 align="center">Hi there 👋, I'm Ange Belard </h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&size=16&lines=FULL+STACK+DEVELOPER;MACHINE+LEARNING+ENTHUSIAST" alt="a-belard"/></p>
-<img align="right" width="350px" style="margin: auto;" src="https://www.whoooa.rocks/illustrations/developer-1-solid.png" alt="a-belard"/>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&size=16&lines=FULL+STACK+DEVELOPER;AUGMENTED+REALITY+ENTHUSIAST" alt="a-belard"/></p>
 
-- 🔭 I’m currently researching on **computer vision projects**
+- 🔭 I’m currently researching on **AR projects**
 
 - 🌱 I’m currently learning **AR, Machine Learning**
-
-- 💬 Ask me about **react, python**
 
 - 📫 How to reach me **brutayis@andrew.cmu.edu**
 
